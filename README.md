@@ -27,8 +27,6 @@ elk-log-analysis/
 ├── detections/
 │   └── brute-force.md
 │   └── user-creation.md
-├── screenshots/
-│   └── kibana-dashboard.png
 ├── report/
 │   └── ELK_Threat_Detection_Report.md
 ```
